@@ -15,6 +15,7 @@
 local.properties
 *.log
 .kotlin/
+.idea/
 
 #os specific
 
